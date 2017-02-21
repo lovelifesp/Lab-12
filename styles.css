@@ -1,0 +1,43 @@
+ body{
+   text-align: center;
+   font-weight: bolder;
+   letter-spacing: 5px;
+   font-family: 'Raleway', sans-serif;
+ }
+
+button{
+  letter-spacing: 3.2px;
+  margin-left: 25px;
+  text-align:right;
+}
+
+h2{
+  font-family: 'Homemade Apple', cursive;
+  font-size: 37px;
+  font-weight: bolder;
+  letter-spacing: 10px;
+   padding: 10px;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+}
+
+div{
+background-color: rgba(237, 139, 12, 0.44);
+padding: 40px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 70px;
+margin-bottom: 60px;
+}
+
+#one{
+background-image:url("http://www.designlovefest.com/wp-content/uploads/downloads/2015/06/LifeLine_KateWorum.jpg");
+padding-bottom: 60px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 70px;
+margin-bottom: 60px;
+}
